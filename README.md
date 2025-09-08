@@ -4,6 +4,8 @@
 
 This project calculates the speed (in km/s) of a star relative to Earth by analyzing its spectrum using the Doppler shift effect. The system processes stellar spectroscopic data to determine radial velocities with high precision, making it valuable for astronomical research and stellar motion studies.
 
+## Data Flow Diagram & System Architecture
+
 ![STAR-SPEED Data Flow Diagram](https://github.com/Torajabu/STAR-SPEED/blob/main/2.png)
 
 ## 🔧 Requirements
