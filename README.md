@@ -4,7 +4,7 @@
 
 This project calculates the speed (in km/s) of a star relative to Earth by analyzing its spectrum using the Doppler shift effect. The system processes stellar spectroscopic data to determine radial velocities with high precision, making it valuable for astronomical research and stellar motion studies.
 
-![STAR-SPEED Data Flow Diagram](https://raw.githubusercontent.com/Torajabu/STAR-SPEED/main/assets/star_speed_diagram.svg)
+![STAR-SPEED Data Flow Diagram](https://github.com/Torajabu/STAR-SPEED/blob/main/2.png)
 
 ## 🔧 Requirements
 
@@ -149,11 +149,3 @@ This project demonstrates:
 - Doppler, C. (1842). "Über das farbige Licht der Doppelsterne"
 - Gray, D. F. (2005). "The Observation and Analysis of Stellar Photospheres"
 - Spectroscopic techniques in modern astronomy
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
-## 🤝 Contributing
-
-Feel free to submit issues, feature requests, or pull requests to improve the stellar velocity analysis capabilities!
