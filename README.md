@@ -184,13 +184,6 @@ This project demonstrates:
 - **Wavelength Coverage**: Blue optical region (4000-5000 Å) offered most reliable stellar lines for velocity analysis
 - **Processing Bottlenecks**: Line fitting constituted ~80% of computation time; optimization focused here yielded best performance gains
 
-### Technical Debt
-- **Code Modularity**: Initial monolithic script evolved into better-structured modules but could benefit from further refactoring
-- **Configuration Management**: Hard-coded parameters should be moved to configuration files for easier customization
-- **Error Handling**: More robust exception handling needed for edge cases and corrupted data files
-- **Unit Testing**: Comprehensive test suite required to prevent regressions during future development
-- **Memory Optimization**: Large spectral datasets occasionally caused memory issues on resource-constrained systems
-
 
 ## 📚 References
 
